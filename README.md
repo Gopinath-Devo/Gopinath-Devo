@@ -49,7 +49,7 @@ A production-ready mobile app built using **React Native**, including UI, API in
 <p>
 <img height="30" src="https://img.shields.io/badge/Lenovo-Victus-0A66C2?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Intel-i5_12450H-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
