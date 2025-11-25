@@ -2,6 +2,13 @@
 <h1 align="center">👋 Hey! I'm <span style="color:#A1BC98;">Gopinath</span></h1>
 <h3 align="center">Frontend Developer • React JS • React Native</h3>
 
+<!-- Clickable Portfolio Button -->
+<p align="center">
+  <a href="https://gopinath-portfolio-fd33d.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me  
